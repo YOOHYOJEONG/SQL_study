@@ -2,4 +2,4 @@
 ---
 | Week | Content | Link |   
 | :--: | :--: | :--: |     
-| 01 | SQL 데이터형(Data Type) | [🌳]() |    
+| 01 | DataBase & Table | [🌳]() |    
