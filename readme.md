@@ -3,8 +3,9 @@
 ## SQL Study 기록   
 | Week | Content | Link |   
 | :--: | :--: | :--: |     
-| 01 | DataBase & Table | [🌳](https://github.com/YOOHYOJEONG/SQL_study/tree/master/week01) |    
-| 02 | DDL & Workbench | [🌳](https://github.com/YOOHYOJEONG/SQL_study/tree/master/week02)|   
+| 01 | DataBase & Table | [📂](https://github.com/YOOHYOJEONG/SQL_study/tree/master/week01) |    
+| 02 | DDL & Workbench | [📂](https://github.com/YOOHYOJEONG/SQL_study/tree/master/week02)|   
+| 03 | DML & GROUP BY | [📂](https://github.com/YOOHYOJEONG/SQL_study/tree/master/week03) |    
 ---
 
 ## Programmers 고득점 Kit
